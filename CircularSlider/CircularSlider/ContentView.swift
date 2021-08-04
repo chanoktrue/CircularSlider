@@ -11,7 +11,8 @@ struct ContentView: View {
     var body: some View {
         
         NavigationView {
-            CircularSliderView()
+//            CircularSliderView()
+            CircularSliderTempView()
                 .preferredColorScheme(.dark)
                 .navigationBarTitle("Wallet")
         }

@@ -13,6 +13,7 @@
 		CDC4960326BA5F3000433F9A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC4960226BA5F3000433F9A /* Preview Assets.xcassets */; };
 		CDC4960B26BA5FE800433F9A /* CircleProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC4960A26BA5FE800433F9A /* CircleProgressView.swift */; };
 		CDC4960D26BA601F00433F9A /* CircularSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC4960C26BA601F00433F9A /* CircularSliderView.swift */; };
+		CDC4960F26BA6B6600433F9A /* CircularSliderTempView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC4960E26BA6B6600433F9A /* CircularSliderTempView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDC4960426BA5F3000433F9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDC4960A26BA5FE800433F9A /* CircleProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleProgressView.swift; sourceTree = "<group>"; };
 		CDC4960C26BA601F00433F9A /* CircularSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularSliderView.swift; sourceTree = "<group>"; };
+		CDC4960E26BA6B6600433F9A /* CircularSliderTempView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularSliderTempView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CDC495FD26BA5F2B00433F9A /* ContentView.swift */,
 				CDC4960A26BA5FE800433F9A /* CircleProgressView.swift */,
 				CDC4960C26BA601F00433F9A /* CircularSliderView.swift */,
+				CDC4960E26BA6B6600433F9A /* CircularSliderTempView.swift */,
 				CDC495FF26BA5F3000433F9A /* Assets.xcassets */,
 				CDC4960426BA5F3000433F9A /* Info.plist */,
 				CDC4960126BA5F3000433F9A /* Preview Content */,
@@ -148,6 +151,7 @@
 				CDC495FC26BA5F2B00433F9A /* CircularSliderApp.swift in Sources */,
 				CDC4960D26BA601F00433F9A /* CircularSliderView.swift in Sources */,
 				CDC4960B26BA5FE800433F9A /* CircleProgressView.swift in Sources */,
+				CDC4960F26BA6B6600433F9A /* CircularSliderTempView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
